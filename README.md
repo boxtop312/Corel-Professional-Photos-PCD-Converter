@@ -1,2 +1,2 @@
 # Corel-Professional-Photos-PCD-Converter
-A powershell script that uses pcdtojpeg to convert the kodak picture cd format images in the corel professional photos collection into jpegs for use in modern software.
+A PowerShell script that uses [pcdtojpeg](https://sourceforge.net/projects/pcdtojpeg/) to convert the Kodak Picture CD format images in the [Corel Professional Photos collection](https://archive.org/details/Corel_Professional_Photos_Collection_1994) into JPEGs for use in modern software.
